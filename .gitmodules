@@ -1,0 +1,9 @@
+[submodule "workout-scanner"]
+	path = workout-scanner
+	url = https://github.com/Nagapadmini7/EthIndia-Opencv
+[submodule "ethfit"]
+	path = ethfit
+	url = https://github.com/Tanmay-Bhatnagar-03/ethfit
+[submodule "fitness-game"]
+	path = fitness-game
+	url = https://github.com/Nagapadmini7/fitness
